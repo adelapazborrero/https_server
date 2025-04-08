@@ -1,0 +1,17 @@
+# Binaries
+bin/
+
+# Certificate files
+certs/
+
+# Go specific
+*.a
+*.exe
+*.out
+*.test
+
+# IDE specific
+.idea/
+.vscode/
+*.swp
+*.swo
